@@ -1,0 +1,67 @@
+{
+    "short_name": "F",
+    "name": "BEYAZ ESYA",
+    "special_instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+    "menu_items": [
+        {
+            "id": 931,
+            "short_name": "F1",
+            "name": "ANKASTRE",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 932,
+            "short_name": "F2",
+            "name": "BUZDOLABI",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 933,
+            "short_name": "F3",
+            "name": "DONDURUCU",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 934,
+            "short_name": "F4",
+            "name": "FIRIN",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 935,
+            "short_name": "F5",
+            "name": "OCAK",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 936,
+            "short_name": "F6",
+            "name": "BULASIK",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+            "price_small": 11.45,
+            "price_large": 15.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        }
+    ]
+}

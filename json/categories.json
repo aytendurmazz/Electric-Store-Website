@@ -1,0 +1,51 @@
+[
+    {
+        "id": 81,
+        "short_name": "L",  
+        "name": "BILGISAYAR",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null
+    },
+    {
+        "id": 82,
+        "short_name": "A",
+        "name": "TELEFON",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null
+    },
+    {
+        "id": 83,
+        "short_name": "B",
+        "name": "TELEVIZYON",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null 
+    },
+    {
+        "id": 86,
+        "short_name": "F",
+        "name": "BEYAZ ESYA",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null
+    },
+    {
+        "id": 87,
+        "short_name": "V",
+        "name": "BAKIM",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null
+    },
+    {
+        "id": 88,
+        "short_name": "DK",
+        "name": "KLIMA",
+        "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+        "url": null
+    },
+    {
+        "id": 90,
+        "short_name": "CU",
+        "name": "HOBI",
+        "special_instructions": "",
+        "url": null
+    }
+]

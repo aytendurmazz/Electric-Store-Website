@@ -1,0 +1,66 @@
+{   "short_name": "CU",
+    "name": "HOBI",
+    "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+    "menu_items":[
+        {
+            "id": 967,
+            "short_name": "CU1",
+            "name": "HOBI1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 11.95,
+            "price_large": 14.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 968,
+            "short_name": "CU2",
+            "name": "HOBI2",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.95,
+            "price_large": 16.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 969,
+            "short_name": "CU3",
+            "name": "HOBI3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.95,
+            "price_large": 17.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 970,
+            "short_name": "CU4",
+            "name": "HOBI4",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.95,
+            "price_large": 17.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 971,
+            "short_name": "CU5",
+            "name": "HOBI5",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.95,
+            "price_large": 17.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 972,
+            "short_name": "CU6",
+            "name": "HOBI6",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.95,
+            "price_large": 17.95,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        }
+    ]
+}

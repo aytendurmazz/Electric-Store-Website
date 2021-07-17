@@ -1,0 +1,67 @@
+{
+    "short_name": "V",
+    "name": "BAKIM",
+    "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+    "menu_items": [
+        {
+            "id": 943,
+            "short_name": "V1",
+            "name": "BAKIM1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 944,
+            "short_name": "V2",
+            "name": "BAKIM2",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 945,
+            "short_name": "V3",
+            "name": "BAKIM3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 946,
+            "short_name": "V4",
+            "name": "BAKIM4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 947,
+            "short_name": "V5",
+            "name": "BAKIM5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        },
+        {
+            "id": 948,
+            "short_name": "V6",
+            "name": "BAKIM6",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "  ,
+            "price_small": 12.45,
+            "price_large": 18.45,
+            "small_portion_name": "pint",
+            "large_portion_name": "large"
+        }
+    ]
+}

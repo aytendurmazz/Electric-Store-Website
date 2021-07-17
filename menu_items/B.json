@@ -1,0 +1,67 @@
+{
+    "short_name": "B",
+    "name": "TELEVIZYON",
+    "special_instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sem felis, pharetra et arcu ac, viverra viverra mauris. ",
+    "menu_items": [
+        {
+            "id": 888,
+            "short_name": "B1",
+            "name": "OLED TV",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 3000.0,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 889,
+            "short_name": "B2",
+            "name": "LED TV",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 5000.0,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 890,
+            "short_name": "B3",
+            "name": "AXEN",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 5232.25,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 891,
+            "short_name": "B4",
+            "name": "LG",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 8746.25,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 892,
+            "short_name": "B5",
+            "name": "GRUNDIG",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 6546.25,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "id": 893,
+            "short_name": "B6",
+            "name": "PHILIPS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "price_small": null,
+            "price_large": 7895.95,
+            "small_portion_name": null,
+            "large_portion_name": null
+        }
+    ]
+}
